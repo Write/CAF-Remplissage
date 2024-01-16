@@ -6,10 +6,10 @@ Remplissez les champs automatiquement sur le formulaire de contact de la CAF !
 # Pourquoi ce projet ?  
  
 La CAF a déjà toutes les informations nécessaires à votre propos : Et pourtant, il vous faut remplir un nombre invraisemblable d'informations pour chacun des mails que vous souhaitez leur envoyer.  
-Vos noms, prénoms, mais aussi numéro de téléphone et adresse ! En plus de cela si vous restez trop longtemps sur la page : Cela vous déconnecte sans sauvegarder votre message !  
-De mon point de vue, c'est un [dark pattern](https://fr.wikipedia.org/wiki/Dark_pattern) volontairement établi pour que les gens soient découragés.
+Vos noms, prénoms, mais aussi numéro de téléphone et adresse ! En plus de cela si vous restez trop longtemps sur la page : cela vous déconnecte sans sauvegarder votre message !  
+De mon point de vue, c'est un [dark pattern](https://fr.wikipedia.org/wiki/Dark_pattern) volontairement établi pour que les gens soient découragés.  
   
-Ce script est donc présent pour remplir automatiquement ces champs : vous n'avez plus qu'à taper votre message !   
+Si pour une raison où une autre vous devez contacter régulièrement votre CAF, cela peut vitre être extrêment décourageant, ce script est donc présent pour remplir automatiquement ces champs : vous n'avez plus qu'à taper votre message !
   
 Vidéo du script en action
 
